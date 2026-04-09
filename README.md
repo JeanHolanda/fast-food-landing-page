@@ -1,44 +1,72 @@
-# 🍔 McDonald's – Página Inicial (Clone)
+# 🍔 Fast Food Landing Page
 
-Clone da página inicial do site do McDonald's, desenvolvido com **HTML e CSS**, com foco em layout, organização visual e boas práticas de front-end.
+A modern fast food landing page inspired by real-world interfaces, focused on visual design, layout structure and user experience.
 
-O projeto reproduz elementos principais da home, como menu de categorias, botões de destaque e interações visuais.
-
----
-🔗 **Acesse o projeto:**  
-https://jeanholanda.github.io/Mc-Donalds/
+🔗 **Live Demo:** https://jeanholanda.github.io/fast-food-landing-page/
 
 ---
 
-## 🛠️ Tecnologias
+## About the project
+
+This project is a front-end interface inspired by popular fast food applications, designed to replicate a modern and engaging user experience.
+
+It focuses on layout composition, visual hierarchy and interactive elements, simulating a real product interface.
+
+---
+
+## Sobre o projeto
+
+Este projeto é uma interface front-end inspirada em aplicativos de fast food, criada para simular uma experiência moderna e envolvente para o usuário.
+
+O foco está na composição de layout, hierarquia visual e elementos interativos, simulando um produto real.
+
+---
+
+## 🎯 Purpose
+
+The main goal of this project is to improve my front-end skills, especially:
+
+- Structuring layouts  
+- Improving visual hierarchy  
+- Replicating real-world interfaces  
+
+---
+
+## 🚀 Technologies
 
 - HTML5  
 - CSS3  
 
 ---
 
-## 📌 O que foi trabalhado
+## ✨ Features
 
-- Estruturação semântica do HTML  
-- Layout com Flexbox  
-- Alinhamento e organização de componentes  
-- Efeitos de hover e transições suaves  
-- Atenção a detalhes de UI/UX  
+- 🍔 Fast food themed interface  
+- 🎨 Design inspired by real applications  
+- 🖱️ Creating interactive buttons and hover effects  
+- 📱 Building structured layout with visual hierarchy  
+- 🧩 Organizing navigation menu and product categories  
+
+---
+
+## 💡 What I learned
+
+- Structuring complex layouts using HTML  
+- Applying CSS for positioning and alignment  
+- Creating interactive UI elements  
+- Replicating real-world interfaces  
+- Improving visual consistency  
 
 ---
 
-## 🚀 Próximos passos
+## 📸 Preview
 
-- Implementar navegação entre páginas  
-- Adicionar interações com JavaScript  
-- Melhorar responsividade  
-
----
 <p align="center">
-  <img src="https://github.com/JeanHolanda/Projeto-Mc-Donald-s/blob/main/assets/mcdonalds-home-notebook.png.png?raw=true" width= 675px>
+  <img src="https://raw.githubusercontent.com/JeanHolanda/fast-food-landing-page/87d07c146795f7d7db5ad7e2242ecd5b5576bb14/assets/Minimalist%20Website%20Launch%20Computer%20Mockup%20Instagram%20Post.png" width="650">
 </p>
 
 ---
-## ⚠️ Aviso
 
-Projeto desenvolvido **exclusivamente para fins educacionais**, sem vínculo com a marca McDonald's.
+## 🧑‍💻 Author
+
+Developed by Jean Holanda 🚀
